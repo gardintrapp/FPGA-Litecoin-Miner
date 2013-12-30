@@ -33,6 +33,9 @@ the previous behaviour set the NOMULTICORE macro (but ONLY if using a single cor
 
 Contents
 --------
+
+SoCkit          A Quartus project targeting the Arrow SoCKIT development board.
+
 DE2-115-Single  Single full scratchpad core, this is the simplest implementation.
 
 DE0-Nano        Uses interpolation as the full scratchpad does not fit (this is the
